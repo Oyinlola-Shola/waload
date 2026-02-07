@@ -97,6 +97,6 @@ npx serve -s . -l 8000
 **Contact / Contribution**
 - This repo is a static demo. To propose changes, fork and submit PRs. If you want me to implement a feature (retroactive check-ins, admin UI for reward config, or visual QA fixes), tell me which feature and I will implement it.
 
----
+----
 
 README updated to reflect rewards/calendar and layout changes. If you'd like screenshots, example flows, or a step-by-step test harness, tell me which to add next.
