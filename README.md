@@ -1,4 +1,4 @@
-# WaLoad (VTU) — Static Frontend
+# WaLoad (VTU) — Static Frontend 
 
 **Project Overview**
 - A small static VTU (virtual top-up) demo app implemented with HTML, CSS and vanilla JavaScript. It simulates common wallet features: balance display, deposit, withdraw, transfer, a services grid (recharge, data, electricity, TV, refer), history, and a profile page.
