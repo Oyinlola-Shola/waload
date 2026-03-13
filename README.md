@@ -4,7 +4,7 @@
 - A small static VTU (virtual top-up) demo app implemented with HTML, CSS and vanilla JavaScript. It simulates common wallet features: balance display, deposit, withdraw, transfer, a services grid (recharge, data, electricity, TV, refer), history, and a profile page.
 - All state is persisted to `localStorage`, so data survives page refresh for the same browser/profile.
 
-**What’s Included**
+**What’s Included**. 
 - `index.html` — main UI and components (balance, services, history preview, modals)
 - `css/styles.css` — styles and layout (mobile-first; see `:root` variables for `--app-max-width`)
 - `js/script.js` — all frontend logic: balance toggle, deposit/withdraw/transfer, profile storage, history rendering, plus the centralized rewards/calendar/coupons logic
